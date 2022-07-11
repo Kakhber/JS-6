@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 200px;
+    height: 80px;
+    border-radius: 8px;
+    background-color: black;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
