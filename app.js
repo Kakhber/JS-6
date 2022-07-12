@@ -1,4 +1,3 @@
-function displayTime () {
     let dateTime = new Data();
     let hrs = dateTime.getHours();
     let min = dateTime.getMinutes();
